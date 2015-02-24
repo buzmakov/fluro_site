@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <!--
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+    -->
+    
+    <title>ru_Tomo</title>
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="http://bootswatch.com/flatly/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="{{ media_url('assets/css/bootstrap.min.css') }}" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index.ru.html">ru_Tomo</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/research_topics.ru.html">Научные интересы</a></li>
+            <li><a href="/peoples.ru.html">Коллектив</a></li>
+            <li><a href="/software.ru.html">Программы</a></li>
+            <li><a href="/publications.ru.html">Список публикаций</a></li>
+            <li><a href="/partners.ru.html">Партнёры</a></li>
+            <li><a href="/vacancy.ru.html">Вакансии</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="/index.ru.html">Рус</a></li>
+            <li><a href="/index.en.html">Eng</a></li>
+          </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+      {% block body %}
+      {% endblock %}
+
+      <!-- Bootstrap core JavaScript
+      ================================================== -->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
+      <script src="{{ media_url('assets/js/jquery.min.js') }}"></script>
+      <script src="{{ media_url('assets/js/bootstrap.min.js') }}"></script>
+      
+      <!-- Yandex.Metrika counter -->
+      <script type="text/javascript">
+      (function (d, w, c) {
+          (w[c] = w[c] || []).push(function() {
+              try {
+                  w.yaCounter24522836 = new Ya.Metrika({id:24522836,
+                          webvisor:true,
+                          clickmap:true,
+                          trackLinks:true,
+                          accurateTrackBounce:true});
+              } catch(e) { }
+          });
+
+          var n = d.getElementsByTagName("script")[0],
+              s = d.createElement("script"),
+              f = function () { n.parentNode.insertBefore(s, n); };
+          s.type = "text/javascript";
+          s.async = true;
+          s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+          if (w.opera == "[object Opera]") {
+              d.addEventListener("DOMContentLoaded", f, false);
+          } else { f(); }
+      })(document, window, "yandex_metrika_callbacks");
+      </script>
+      <noscript><div><img src="//mc.yandex.ru/watch/24522836" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+      <!-- /Yandex.Metrika counter -->
+
+    </body>
+  </html>

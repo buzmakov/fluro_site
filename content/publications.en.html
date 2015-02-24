@@ -1,0 +1,26 @@
+---
+extends: base.en.html
+default_block: body
+---
+
+<div class="container">
+	<div class='col-lg-12'>
+		<div class='page-header'>
+			<h1>Our publications</h1>
+		</div>
+	{% filter markdown -%}
+* 2014
+	* Anastasiya INGACHEVA , Marina CHUKALINA , Alexey BUZMAKOV , Dmitry NIKOLAEV, Denis ZOLOTOV, Victor PRUN, Victor ASADCHIKOV Tomography problem in polychromatic conditions // XTOP 2014, Villard-de-Lans, France, 2014, Book of abstracts, p. 124 [download pdf]({{ media_url('data/publications/2014_Ingacheva_xtop_poster.pdf') }})
+	
+	*  Alexey BUZMAKOV , Marina CHUKALINA , Denis ZOLOTOV , Victor ASADCHIKOV Optimization of micro-tomographic experiment and reconstruction parameters at low signal-to-noise ratio // XTOP 2014, Villard-de-Lans, France, 2014, Book of abstracts, p. 87 [download pdf]({{ media_url('data/publications/2014_Buzmakov_xtop_poster.pdf') }})
+
+	* M. Chukalina, Image reconstruction for fluorescence tomography. Advanced X-Ray Tomography: Experiment, Modeling, and Algorithms from 10 Feb 2014 through 14 Feb 2014, Lorentz Center, Leiden, Netherlands [download pdf]({{ media_url('data/publications/2014_Chukalina.pdf') }})
+
+* ... - 2013
+
+	* To be done.
+
+	{%- endfilter %}
+
+	</div>	
+</div>

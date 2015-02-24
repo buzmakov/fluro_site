@@ -1,0 +1,56 @@
+Фото:
+https://pp.vk.me/c1039/u3917422/a_583db2a8.jpg
+ 
+Контакты:
++7 (916) 146-24-87, d.p.nikolaev@gmail.com, skype:babylon__baby .
+ 
+Федеральное государственное бюджетное учреждение науки Институт проблем передачи информации им. А.А. Харкевича Российской академии наук (ИППИ РАН), зав. сек. 8.1 (Сектор моделирования биоинформационных процессов в зрительных системах), к.ф.-м.н.
+ 
+Научные интересы: обработка изображений, быстрые алгоритмы, техническое зрение, дискретная математика, распознавание образов.
+ 
+Несколько предложений о себе: Да ну, глупости.
+ 
+Список основных бубликаций:
+Николаев П.П., Николаев Д.П. Модели константного зрительного восприятия. III. Спектральные и перцептивные инварианты в процедурах зрительной обработки // Сенсорные системы, 1997, Т. 11, №2, стр. 181-204.
+Prokhorov K.A., Nikolaeva G.Yu., Gordeev S.A., Pashinin P.P., Nikolaev D.P. Raman scattering in oriented polyethylene: The range of valence vibrations of the CH2 group // Laser Physics, 2001, V. 11, №1, pр. 86-93.
+Kim S.K., Nikolayev D.P. Method and apparatus for sectioning image into plurality of regions // US patent application publication. Application No. 09/983032, Publication No. US 2002/0102017 A1, 2002, 25 pp.
+Nikolaev D.P., Nikolayev P.P. Linear color segmentation and its implementation // Computer Vision and Image Understanding. 2004, V. 94 (Special issue on colour for image indexing and retrieval), pp. 115-139.
+Рожкова Г.И., Токарева В.С., Николаев Д.П., Огнивов В.В. Основные типы зависимости остроты зрения от расстояния у человека в разном возрасте по результатам дискриминантного анализа // Сенсорные системы, 2004. Т. 18, стр. 303-338.
+Dmitry P. Nikolaev, Petr P. Nikolaev, Valentina P. Bozhkova. Efficiency comparison of analytical Gaussian and linear spectral models in the same colour constancy framework / International Journal of Simulation - Systems, Science & Technology (IJSSST, Special Issue on: Vision & Visualization), 2006, V. 7, №3, pp. 21-36.
+Nikolaev D., Karpenko S. Color-to-grayscale image transformation preserving the gradient structure // 20th European Conference on Modelling and Simulation (ECMS 2006), 2006, pp. 321-323.
+V. Bozhkova, N. Surovicheva, D. Nikolaev, D. Lebedev. Smooth pursuit in human vision and possibilities of its simulation // В сб.: Proceedings of the 21st European Conference on Modelling and Simulation, ECMS 2007, 2007, стр. 313-317.
+D. Nikolaev, P. Nikolayev. On spectral models and colour constancy clues // В сб.: Proceedings of the 21st European Conference on Modelling and Simulation, ECMS 2007, 2007, стр. 318-323.
+П. Николаев, С. Карпенко, Д. Николаев. Спектральные модели цветовой константности: правила отбора // Обработка изображений и анализ данных: Труды института системного анализа Российской академии наук (ИСА РАН), 2008, Т. 38, стр. 322-335.
+П.В. Безматерных, Д.П. Николаев, В.В. Постников. Быстрый алгоритм детектирования рукописных пометок // Обработка изображений и анализ данных: Труды института системного анализа Российской академии наук (ИСА РАН), 2008, Т. 38, стр. 185-193.
+В.П. Божкова, Н.С. Суровичева, Д.П. Николаев, Д.Г. Лебедев. Характеристики плавного прослеживания у детей и взрослых в условиях кажущегося движения // Физиология человека, 2008, Т. 34, №4, стр. 19-27. 
+V. Bozhkova, N. Surovicheva, D. Nikolaev, D. Lebedev. Characteristics of smooth pursuit in children and adults in apparent motion tests // Human Physiology, 2008, V. 34, N 4, pp. 405-412 (In translation).
+М. Чукалина, А. Бузмаков, Д. Николаев, А. Чуличков, М. Каримов, Г. Расулов, Р. Сенин, В. Асадчиков. Тестовые измерения на лабораторном рентгеновском микротомографе: математическая обработка результатов измерений // Измерительная техника, 2008, №2, стр. 19-24. === Chukalina M.V., Buzmakov A.V., Senin R.A., Asadchikov V.E., Nikolaev D.P., Chulichkov A.I., Karimov M.G., Rasulov G.A. X-ray microtomography using a laboratory source: Measurement technique and comparison of reconstruction algorithms // Measurement Techniques, 2008, V. 51, №2, pp. 136-145 (In translation).
+D. Nikolaev, S. Karpenko, I. Nikolaev, P. Nikolayev. Hough Transform: Underestimated Tool in the Computer Vision Field // Proceedings of 22th European Conference on Modelling and Simulation, 2008, стр. 238-243.
+Д. Николаев, С. Гладилин, С. Карпенко. Метод восстановления изображений, подверженных радиальной дисторсии // Информационные технологии и системы (ИТиС'08): сборник трудов конференции. - М.: ИППИ РАН, 2008, стр. 502-505.
+Соколов В.В., Норка Ю.А., Карпенко С.М., Николаев Д.П. О визуализации мультиспектральных изображений, сохраняющей локальный контраст // Труды Института системного анализа Российской академии наук. Технология программирования и хранения данных. 2009, Т. 45, стр. 183-193.
+Николаев П.П., Николаев Д.П. Проективно инвариантное распознавание плоских контуров на примере центрально симметричных кривых // Труды Института системного анализа Российской академии наук. Технология программирования и хранения данных. 2009, Т. 45, стр. 194-205.
+Усилин С.А., Николаев Д.П., Постников В.В. Cognitive PDF/A – технология оцифровки текстовых документов для публикации в интернете и долговременного архивного хранения // Труды Института системного анализа Российской академии наук. Технология программирования и хранения данных. 2009, Т. 45, стр. 159-173.
+В. Божкова, Н. Суровичева, Д. Николаев. Сравнение характеристик плавного прослеживания у праворуких и леворуких людей // Физиология человека, 2010, Т. 36, № 6, стр. 48-54. === V. Bozhkova, N. Surovicheva, D. Nikolaev. Comparison of characteristic of smooth pursuit in left-handed and right-handed subjects // Human Physiology, 2010, V. 36, N 6, pp. 659-664 (In translation).
+П. Безматерных, Д. Вылегжанин, С. Гладилин, Д. Николаев. Генеративное распознавание двумерных штрихкодов // Искусственный интеллект и принятие решений, 2010, № 4, стр. 63-69.
+С. Карпенко, В. Соколов, Д. Николаев. Сдвиговое и полусдвиговое преобразования Хафа: генерация быстрых вычислительных схем // Труды Института системного анализа Российской академии наук. Обработка информационных и графических ресурсов. 2010, стр. 238-247.
+С. Усилин, Д. Николаев, В. Постников. Локализация, ориентация и идентификация документов с фиксированной геометрией на изображении // Труды Института системного анализа Российской академии наук. Обработка информационных и графических ресурсов. 2010, стр 248-261.
+Т. Ханипов, Д. Николаев. Исследование метода слияния областей в задаче цветовой сегментации // Материалы 33-й конференции молодых ученых и специалистов "Информационные технологии и системы (ИТиС'10)", – М.: ИППИ РАН, 2010. Стр. 151-155.
+S. Usilin, D. Nikolaev, V. Postnikov, G. Schaefer. Visual appearance based document image classification // Proceedings of 2010 IEEE 17th International Conference on Image Processing, 2010, pp. 2133-2136.
+V. Sokolov, S. Karpenko, D.Nikolaev, G. Schaefer, On Contrast-Preserving Visualisation of Multispectral Datasets // Proceedings of the International Symposium on Visual Computing (ISVC’2010), Part I, pp. 173-180.
+V. Asadchikov, A. Chulichkov, A. Buzmakov, M. Chukalina, D. Nikolaev, R. Senin, G. Schaefer. Morphological Analysis and Reconstruction for Computed Tomography // International Journal of Computer Information Systems and Industrial Management Applications (IJCISIM), 2011, V. 3, pp. 19-25.
+Чукалина М.В., Николаев Д.П. Восстановление формы рентгеновского зонда по рентгенофлуоресцентным картам // Заводская лаборатория. Диагностика материалов. 2011, Т. 77, №8, стр. 30-33.
+Usilin S., Nikolaev D., Sholomov D. Guilloche Elements Recognition Applied to Passport Page Processing // Proceedings of the 8th Open German-Russian Workshop “Pattern Recognition and Image Understanding” OGRW-8-2011, 2011. Pp. 303-306.
+A. Grigoryev, T. Khanipov, D. Nikolaev. Determination of axle count for vehicle recognition and classification // Proceedings of the 8th Open German-Russian Workshop “Pattern Recognition and Image Understanding” OGRW-8-2011, 2011. Pp. 89–91.
+В.П. Божкова, Н.С. Суровичева, Д.П. Николаев. Качество плавного прослеживания у людей с нарушениями слуха, возникшими в раннем детском возрасте // Сенсорные системы, 2012, Т.26. No.3. С. 214-223.
+Безматерных П., Ханипов Т., Николаев Д.П. Решение задачи линейной регрессии с помощью быстрого преобразования Хафа // Труды 35-ой конференции молодых ученых и специалистов «Информационные технологии и системы (ИТиС’12)». Петрозаводск, 2012. М.: ИППИ РАН, 2012. С. 354-359.
+Котов Ал.А., Усилин С.А., Николаев Д.П. Построение устойчивых признаков для алгоритма Виолы и Джонса в задаче классификации транспортных средств // Труды 35-ой конференции молодых ученых и специалистов «Информационные технологии и системы (ИТиС’12)». Петрозаводск, 2012. М.: ИППИ РАН, 2012. С. 383-388.
+Григорьев А.С., Гладков А.П., Николаев Д.П. Система подсчета колесных осей транспортных средств и ее оптимизация с помощью программного пакета NOMAD // Труды 35-ой конференции молодых ученых и специалистов «Информационные технологии и системы (ИТиС’12)». Петрозаводск, 2012. М.: ИППИ РАН, 2012. С. 396-400.
+Котов А.А., Николаев Д.П. Прослеживание в видеопотоке объектов, содержащих множество концентрических дуг // Труды 35-ой конференции молодых ученых и специалистов «Информационные технологии и системы (ИТиС’12)». Петрозаводск, 2012. М.: ИППИ РАН, 2012. С. 389-395.
+Prun V.E., Nikolaev D.P., Chukalina M.V., Buzmakov A.V., Asadchikov V.E. Effective Regularized Algebraic Reconstruction Technique for Computed Tomography // Proc. the 11th Biennial Conference on High Resolution X-Ray Diffraction and Imaging «XTOP 2012». Sant-Petersburg, 2012. September 15-20. P. 65.
+Николаев Д.П., Постников В.В., Ханипов Т.М., Усилин С.А., Григорьев А.С. Способ автоматической классификации транспортных средств // Патент РФ RU 2486597 C1, заявка 2012105146/11, 2013, 16 стр.
+А.В. Куроптев, Д.П. Николаев, В.В. Постников. Точная локализация опорных решеток полей заполнения в анкетах методами динамического программирования и морфологической фильтрации // Труды института системного анализа Российской академии наук (ИСА РАН), 2013, Т. 63, №3, стр. 111-116.
+В.В. Арлазаров, Д.П. Николаев, С.А. Усилин, Д.Л. Шоломов. Распознавание гильоширных элементов: определение страниц паспорта РФ // Труды института системного анализа Российской академии наук (ИСА РАН), 2013, Т. 63, №3, стр. 106-110.
+Д.П. Николаев, А.А. Сараев. Критерии оценки качества в задаче автоматизированной настройки алгоритмов бинаризации // Труды института системного анализа Российской академии наук (ИСА РАН), 2013, Т. 63, №3, стр. 85-94.
+В. Е. Прун, А. В. Бузмаков, Д. П. Николаев, М. В. Чукалина, В. Е. Асадчиков, “Вычислительно эффективный вариант алгебраического метода компьютерной томографии”, Автомат. и телемех., 2013, № 10, 86–97 === A computationally efficient version of the algebraic method for computer tomography By: Prun, V. E.; Buzmakov, A. V.; Nikolaev, D. P.; et al. AUTOMATION AND REMOTE CONTROL  Volume: 74   Issue: 10   Pages: 1670-1678   Published: OCT 2013.
+ 
+А что именно нужно на английском?

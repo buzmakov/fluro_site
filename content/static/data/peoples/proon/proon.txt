@@ -1,0 +1,16 @@
+Русская версия:
+1) vicproon@gmail.com
+2) МФТИ, студент; ИК РАН, инженер;
+3) Алгоритмы восстановления томографии, обработка изображений, быстрое преобразование Хафа.
+4)
+5) В.Е. Прун, А.В. Бузмаков, Д.П. Николаев, М.В. Чукалина, В.Е. Асадчиков, "Вычислительно эффективный вариант алгебраического метода компьютерной томографии", Автомат. и телемех., 2013, выпуск 10, стр. 86–97
+   В.Е. Прун, Д.П. Николаев, А.В. Бузмаков, М.В. Чукалина, В.Е. Асадчиков, "Вычистилельно эффективный регуляризующий алгебраический метод компьютерной томографии", Кристаллография, выпуск 7, 2013
+  
+Английская версия:
+1) vicproon@gmail.com
+2) Moscow Institute of Physics and Technology, student; Shubnikov Institute of Crystallography RAS, engineer
+3) Tomography reconstruction techniques, Image processing, Fast Hough Transform.
+4)
+5) V.E. Prun, A.V. Buzmakov, D.P. Nikolaev, M.V. Chukalina, V.E. Asadchikov, "A computationally efficient version of the algebraic method for computer tomography", Automation and Remote Control, Oct. 2013, Vol. 74, I. 10, pp 1670-1678
+   V.E. Prun, D.P. Nikolaev, A.V. Buzmakov, M.V. Chukalina and V.E. Asadchikov, "Effective Regularized Algebraic Reconstruction Technique for Computed Tomography", Crystallography Reports, Vol. 58, No. 7, 2013, p. 1063
+for Computed Tomography
